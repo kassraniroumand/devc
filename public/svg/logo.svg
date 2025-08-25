@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="48" height="48" viewBox="0 0 48 48" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="48" height="48" rx="8" fill="#2269b0"/>
+  <path d="M12 16h24v2H12v-2zm0 6h24v2H12v-2zm0 6h16v2H12v-2z" fill="white"/>
+  <circle cx="36" cy="30" r="6" fill="#029ade"/>
+  <text x="24" y="40" font-family="Arial, sans-serif" font-size="8" fill="white" text-anchor="middle">DFT</text>
+</svg>
